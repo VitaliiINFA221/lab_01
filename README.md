@@ -21,8 +21,12 @@
 
 Источники:
 1. ISO/IEC 27000:2018. Information technology – Security techniques – Information security management systems – Overview and vocabulary.
+https://pqm-online.com/assets/files/pubs/translations/std/iso-mek-27000-2018.pdf
+https://www.mn.uio.no/ifi/forskning/grupper/sec/sikkerhetsledelse/iso_iec_27000_2018.pdf
 
-2. ГОСТ 33707-2016 (ISO/IEC 2382:2015). Информационные технологии. Словарь.
+3. ГОСТ 33707-2016 (ISO/IEC 2382:2015). Информационные технологии. Словарь.
+https://files.stroyinf.ru/Data2/1/4293751/4293751722.pdf?ysclid=mufjm2qmzq895613221
+https://www.iso.org/ru/standard/63598.html
 
 Результаты:
 1. TBX: 100 терминов кибербезопасности.
