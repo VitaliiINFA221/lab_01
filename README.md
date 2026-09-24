@@ -33,7 +33,7 @@ https://files.stroyinf.ru/Data2/1/4293751/4293751722.pdf?ysclid=mufjm2qmzq895613
 https://www.iso.org/ru/standard/63598.html
 
 Результаты:
-1. TBX: 100 терминов кибербезопасности.
+1. TBX: 100 терминов по кибербезопасности.
 
 2. TMX: 100 параллельных сегментов EN–RU.
 
