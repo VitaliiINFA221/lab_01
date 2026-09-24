@@ -1,0 +1,4 @@
+﻿query,tuid,source_segment,target_segment,score,match_type
+The audit is a systematic and documented process for obtaining audit evidence.,3,The audit is a systematic and documented process for obtaining audit evidence.,Аудит — это систематический и документированный процесс получения свидетельства аудита.,100.0,ICE (101%)
+The security audit is a documented process for obtaining audit evidence.,3,The audit is a systematic and documented process for obtaining audit evidence.,Аудит — это систематический и документированный процесс получения свидетельства аудита.,84.42,Fuzzy
+The marketing team prepared a new promotional brochure for the product.,-,-,-,0.0,No Match
